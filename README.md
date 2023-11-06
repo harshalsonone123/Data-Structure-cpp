@@ -4,12 +4,12 @@ This repository contains my solutions and implementations of various data struct
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Data Structures](#data-structures)
-3. [Algorithms](#algorithms)
-4. [How to Use](#how-to-use)
-5. [Contributing](#contributing)
-6. [License](#license)
+1. [Introduction]
+2. [Data Structures]
+3. [Algorithms]
+4. [How to Use]
+5. [Contributing]
+6. [License]
 
 ## Introduction
 
@@ -17,20 +17,20 @@ This repository is a collection of C++ code for various data structures and algo
 
 ## Data Structures
 
-- [Array](./data-structures/array.cpp)
-- [Linked List](./data-structures/linked-list.cpp)
-- [Stack](./data-structures/stack.cpp)
-- [Queue](./data-structures/queue.cpp)
-- [Binary Search Tree](./data-structures/binary-search-tree.cpp)
+- [Array]
+- [Linked List]
+- [Stack]
+- [Queue]
+- [Binary Search Tree]
 - ...
 
 ## Algorithms
 
-- [Sorting](./algorithms/sorting.cpp)
-- [Searching](./algorithms/searching.cpp)
-- [Recursion](./algorithms/recursion.cpp)
-- [Dynamic Programming](./algorithms/dynamic-programming.cpp)
-- [Graph Algorithms](./algorithms/graph-algorithms.cpp)
+- [Sorting]
+- [Searching]
+- [Recursion]
+- [Dynamic Programming]
+- [Graph Algorithms]
 - ...
 
 ## How to Use
