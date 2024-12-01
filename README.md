@@ -2,14 +2,6 @@
 
 This repository contains my solutions and implementations of various data structures and algorithms in C++. It serves as a learning resource and a place for me to practice coding.
 
-## Table of Contents
-
-1. [Introduction]
-2. [Data Structures]
-3. [Algorithms]
-4. [How to Use]
-5. [Contributing]
-6. [License]
 
 ## Introduction
 
